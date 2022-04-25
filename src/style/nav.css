@@ -1,0 +1,22 @@
+.navbar{
+    width: 500px;
+    margin: auto;
+    text-decoration: none;
+}
+
+
+.nav-home{
+    margin-left: 20px;
+}
+.nav-list{
+    margin-left: 20px;
+}
+.nav-admin{
+    margin-left: 20px;
+}
+.nav-login{
+    margin-left: 20px;
+}
+.nav-logout{
+    margin-left: 20px;
+}
